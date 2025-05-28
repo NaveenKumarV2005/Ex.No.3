@@ -1,5 +1,4 @@
-## Create users, groups and group memberships
-
+# 19CS545-Ex3 - Create users, groups and group memberships in GitHub
 ## AIM: 
 
 To create users, groups and group memberships. 
@@ -47,3 +46,4 @@ user account.
 ## RESULT: 
 
 Thus the users and groups are created successfully.
+
